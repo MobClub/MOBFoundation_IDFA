@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name                = "MOBFoundation"
+s.name                = "MOBFoundation_IDFA"
 s.version             = "1.2.1"
 s.summary             = 'mob.com的公共库'
 s.license             = 'Copyright © 2012-2015 mob.com'
